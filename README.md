@@ -57,4 +57,4 @@ I used area-based approach, where I put a threshold of 180 to 800 for half grain
 Still Lot of touching grains are accurately not separately calculated. Lot of half grains were not perfectly counted.
 next steps to improve the algorithm.:
 The image will zoom into 10 times. Then the touch boundaries of the two or more grains should be easily trace. 
-Hence, we will calculate the grains more effectively.
+Hence, we will calculate the grains more effectively
